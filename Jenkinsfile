@@ -5,7 +5,7 @@ pipeline {
     maven 'Maven3'
   }
   environment {
-	APP_NAME = "register-app-pipeline"
+	APP_NAME = "daomynhi/register-app-pipeline:1.0.0-23"
 	RELEASE = "1.0.0"
 	DOCKER_USER = "daomynhi"
 	DOCKER_PASS = 'docker'
