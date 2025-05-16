@@ -27,7 +27,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.example.Main</mainClass> <!-- Thay bằng tên class main của em -->
+              <mainClass>com.example.App</mainClass> <!-- Thay bằng tên class main của em -->
             </manifest>
           </archive>
         </configuration>
